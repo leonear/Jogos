@@ -210,3 +210,5 @@ if(__name__ == "__main__"):
 #vale lembrar que uma string também é considerado um sequência como a lista, porém de caracteres
 
 #para leitura de arquivos utilizamos a string r, para escrever utilizamos string w e para adicionar utilizamos a string a
+
+#versão final do jogo da forca
